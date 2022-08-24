@@ -17,7 +17,7 @@ let s:nord_vim_version="0.19.0"
 set background=dark
 
 let s:nord0_gui = "#2C2C2C" " BG
-let s:nord1_gui = "#FFFFFF" " Selection text
+let s:nord1_gui = "#4a4a4a" " Tab background
 let s:nord2_gui = "#434343" " Selection BG
 let s:nord3_gui = "#4C566A" " Popup selection bg and line numbers
 let s:nord3_gui_bright = "#616E88"
